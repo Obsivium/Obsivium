@@ -1,11 +1,8 @@
-
 <h1 style="display:flex">
-  <picture style="margin-right: 10px;">
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32">
-  </picture>
+  <img style="margin-right:10px" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32">
     Hey, Welcome</h1>
 
+    
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. Here’s a little about me:
 
 ## 🚀 About Me
