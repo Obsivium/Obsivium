@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## 📊 GitHub Stats
 ![Obsivium's GitHub stats](https://github-readme-stats.vercel.app/api?username=obsivium&show_icons=true&theme=tokyonight)
+[![committers.top badge](https://user-badge.committers.top/worldwide_private/obsivium.svg)](https://user-badge.committers.top/worldwide_private/obsivium)
 
 ### 🚀 Fun GitHub Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obsivium&layout=compact&theme=tokyonight)
