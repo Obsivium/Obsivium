@@ -1,0 +1,11 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "Readme for Obsivium",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Obsivium",
+  "license": "Unlicense"
+}
