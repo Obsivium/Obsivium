@@ -12,22 +12,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout
-        uses: actions/checkout@v1
-      - name: setup node
-        uses: actions/setup-node@v1
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '13.x'
-      - name: cache
-        uses: actions/cache@v1
+          node-version: '20'
+
+      - name: Cache Node.js modules
+        uses: actions/cache@v4
         with:
           path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install dependencies
+        run: npm install
+
       - name: Generate README file
         run: node index.js
-                  git diff
-                  git config --global user.email "kcihan.doruk@gmail.com"   
-                  git config --global user.name "obsivium"
-                  git add -A
-                  git commit -m "Update README.md - Add new joke" || exit 0
-                  git push
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "kcihan.doruk@gmail.com"   
+          git config --global user.name "obsivium"
+          git add -A
+          git diff --quiet && echo "No changes to commit" || (git commit -m "Update README.md - Add new joke" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
