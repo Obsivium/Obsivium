@@ -40,6 +40,6 @@ jobs:
           git config --global user.email "kcihan.doruk@gmail.com"   
           git config --global user.name "obsivium"
           git add -A
-          git diff --quiet && echo "No changes to commit" || (git commit -m "Update README.md - Add new joke" && git push)
+          git commit -m "Update README.md - Add data" && git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
