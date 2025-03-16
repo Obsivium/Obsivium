@@ -48,4 +48,4 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 ---
 ⭐️ Feel free to explore my repos and contribute!
 
-<p align="center">this <i>README</i> file is generated <b>every 5 hours</b>!</br>Last refresh: {{refresh_time}}</p>
+<p align="center">this <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: {{refresh_time}}</p>
