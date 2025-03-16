@@ -25,3 +25,9 @@ jobs:
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Generate README file
         run: node index.js
+                  git diff
+                  git config --global user.email "kcihan.doruk@gmail.com"   
+                  git config --global user.name "obsivium"
+                  git add -A
+                  git commit -m "Update README.md - Add new joke" || exit 0
+                  git push
