@@ -50,6 +50,14 @@
     </tr>
 
   <tr>
+    <td><a href="https://github.com/Obsivium/Minerva"><b>Minerva</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/Minerva?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/Minerva?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Obsivium/Minerva?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/Minerva?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
+  <tr>
     <td><a href="https://github.com/Obsivium/Obsivium"><b>Obsivium</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/Obsivium?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/Obsivium?style=flat-square&labelColor=343b41"/></td>
@@ -148,5 +156,5 @@
 
 <p align="center">
   🔄 This <i>README</i> is auto-generated <b>every 3 hours</b><br>
-  ⏱️ Last updated: 3/29/2025, 5:29:30 AM
+  ⏱️ Last updated: 3/29/2025, 6:21:46 PM
 </p>
