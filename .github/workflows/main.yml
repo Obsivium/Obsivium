@@ -6,7 +6,8 @@ on:
     branches:
       - master
   schedule:
-    - cron: '13 5 * * *'  # Runs at 08:13 AM Turkey Time (TRT, UTC+3)
+   - cron: '0 */3 * * *'  # Runs every 3 hours
+
   workflow_dispatch:  # Enables manual trigger
 
 jobs:
