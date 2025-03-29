@@ -89,6 +89,14 @@
     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/yavasadam.xyz?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
+  <tr>
+    <td><a href="https://github.com/Obsivium/Zultanite"><b>Zultanite</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/Zultanite?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/Zultanite?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Obsivium/Zultanite?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/Zultanite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
   </tbody>
 </table>
 
@@ -140,5 +148,5 @@
 
 <p align="center">
   🔄 This <i>README</i> is auto-generated <b>every 3 hours</b><br>
-  ⏱️ Last updated: 3/28/2025, 5:32:37 AM
+  ⏱️ Last updated: 3/29/2025, 5:29:30 AM
 </p>
