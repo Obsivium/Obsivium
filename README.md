@@ -66,6 +66,14 @@
     </tr>
 
   <tr>
+    <td><a href="https://github.com/Obsivium/raylib_template"><b>raylib_template</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/raylib_template?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/raylib_template?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Obsivium/raylib_template?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/raylib_template?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
+  <tr>
     <td><a href="https://github.com/Obsivium/Rock-Paper-Scissors"><b>Rock-Paper-Scissors</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/Rock-Paper-Scissors?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/Rock-Paper-Scissors?style=flat-square&labelColor=343b41"/></td>
@@ -156,5 +164,5 @@
 
 <p align="center">
   🔄 This <i>README</i> is auto-generated <b>every 3 hours</b><br>
-  ⏱️ Last updated: 4/6/2025, 12:16:51 PM
+  ⏱️ Last updated: 4/6/2025, 12:35:32 PM
 </p>
