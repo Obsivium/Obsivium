@@ -30,13 +30,18 @@ async function main() {
     path.join(__dirname, "README_template.md"),
     "utf8",
   );
+  const current = await fs.readFileSync(
+    path.join(__dirname, "README.md"),
+    "utf8",
+  );
   const repos = await get_repos("obsivium");
   console.log(repos);
   const repoDetails = repos.map(get_repo_details).join("");
-  const updatedTemplate = change_time(
-    template.replace("{{projects}}", repoDetails),
-  );
-  await fs.writeFileSync(path.join(__dirname, "README.md"), updatedTemplate);
+  const updatedTemplate = template.replace("{{projects}}", repoDetails),
+
+  if (updatedTemplate != current){
+    await fs.writeFileSync(path.join(__dirname, "README.md"), updatedTemplate);
+  }
 }
 
 main();
