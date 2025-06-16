@@ -37,7 +37,7 @@ async function main() {
   const repos = await get_repos("obsivium");
   console.log(repos);
   const repoDetails = repos.map(get_repo_details).join("");
-  const updatedTemplate = template.replace("{{projects}}", repoDetails),
+  const updatedTemplate = template.replace("{{projects}}", repoDetails)
 
   if (updatedTemplate != current){
     await fs.writeFileSync(path.join(__dirname, "README.md"), updatedTemplate);
