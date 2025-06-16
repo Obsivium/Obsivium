@@ -6,13 +6,11 @@ on:
     branches:
       - master
   schedule:
-   - cron: '0 */3 * * *'  # Runs every 3 hours
-
+    - cron: '0 */3 * * *'  # Runs every 3 hours
   workflow_dispatch:  # Enables manual trigger
 
 jobs:
   build:
-  
     runs-on: ubuntu-latest
 
     steps:
@@ -38,11 +36,17 @@ jobs:
       - name: Generate README file
         run: node index.js
 
-      - name: Commit and push changes
+      - name: Commit and push changes if README.md updated
         run: |
-          git config --global user.email "kcihan.doruk@gmail.com"   
+          git config --global user.email "kcihan.doruk@gmail.com"
           git config --global user.name "obsivium"
-          git add -A
-          git commit -m "Update README.md - Add data" && git push
+
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "Update README.md - Add data"
+            git push
+          else
+            echo "README.md not changed. Skipping commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
