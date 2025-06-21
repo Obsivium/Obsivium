@@ -1,7 +1,9 @@
-<h1 align="center" style="display:flex; align-items:center; justify-content:center;">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32" style="margin-right:10px;">
-  Hey, Welcome to My GitHub!
+<h1 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"><br/>
+  Obsivium
 </h1>
+
+<p align="center"><strong>Crafting open-source experiences for curious minds.</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=obsivium&color=blue" alt="Profile Views"/>
@@ -9,6 +11,14 @@
     <img src="https://codeium.com/badges/user/obsivium/autocomplete" alt="Codeium Autocomplete Badge"/>
   </a>
 </p>
+
+## Table of Contents
+- [About Me](#-about-me)
+- [Current Projects](#-current-projects)
+- [Tech Stack](#tech-stack)
+- [GitHub Stats](#-github-stats)
+- [GitHub Trophies](#-github-trophies)
+- [Let's Connect](#-lets-connect)
 
 ---
 
@@ -118,7 +128,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:**  
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/> 
@@ -161,4 +171,6 @@
 - 🌐 Portfolio: [obsivium.com](https://obsivium.com)
 
 ---
+
+<p align="center">Made with ❤️ by Obsivium</p>
 
