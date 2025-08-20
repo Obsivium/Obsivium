@@ -60,14 +60,6 @@
     </tr>
 
   <tr>
-    <td><a href="https://github.com/Obsivium/dashy"><b>dashy</b></a></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/dashy?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/dashy?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/Obsivium/dashy?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/dashy?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-
-  <tr>
     <td><a href="https://github.com/Obsivium/Minerva"><b>Minerva</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/Minerva?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/Minerva?style=flat-square&labelColor=343b41"/></td>
@@ -100,14 +92,6 @@
     </tr>
 
   <tr>
-    <td><a href="https://github.com/Obsivium/Stories"><b>Stories</b></a></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/Stories?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/Stories?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/Obsivium/Stories?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/Stories?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-
-  <tr>
     <td><a href="https://github.com/Obsivium/Word-Fall"><b>Word-Fall</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/Word-Fall?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/Word-Fall?style=flat-square&labelColor=343b41"/></td>
@@ -121,14 +105,6 @@
     <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/yavasadam.xyz?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/Obsivium/yavasadam.xyz?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/yavasadam.xyz?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-
-  <tr>
-    <td><a href="https://github.com/Obsivium/Zultanite"><b>Zultanite</b></a></td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/Zultanite?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/Zultanite?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Issues" src="https://img.shields.io/github/issues/Obsivium/Zultanite?style=flat-square&labelColor=343b41"/></td>
-    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/Zultanite?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
   </tbody>
