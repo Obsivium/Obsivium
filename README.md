@@ -1,16 +1,10 @@
 <h1 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"><br/>
+  <img src="https://static.wikia.nocookie.net/deltarune/images/5/5f/Ralsei_Walka.gif/revision/latest?cb=20210514074145&path-prefix=pl" alt="😎" width="128" height="128">
   Obsivium
 </h1>
 
-<p align="center"><strong>Crafting open-source experiences for curious minds.</strong></p>
+<p>Hi, I'm Obsivium</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=obsivium&color=blue" alt="Profile Views"/>
-  <a href="https://codeium.com/profile/obsivium">
-    <img src="https://codeium.com/badges/user/obsivium/autocomplete" alt="Codeium Autocomplete Badge"/>
-  </a>
-</p>
 
 ## Table of Contents
 - [About Me](#-about-me)
@@ -133,10 +127,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obsivium&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obsivium&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsivium&theme=tokyonight" alt="GitHub Streak"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=obsivium&color=blue" alt="Profile Views"/><br>
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=obsivium&show_icons=true&theme=tokyonight" alt="GitHub Stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obsivium&layout=compact&theme=tokyonight" alt="Top Languages"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsivium&theme=tokyonight" alt="GitHub Streak"/><br>
 </p>
 
 ---
