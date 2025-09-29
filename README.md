@@ -70,6 +70,14 @@
     </tr>
 
   <tr>
+    <td><a href="https://github.com/Obsivium/obsivium.com"><b>obsivium.com</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/obsivium.com?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/obsivium.com?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Obsivium/obsivium.com?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/obsivium.com?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
+  <tr>
     <td><a href="https://github.com/Obsivium/raylib_template"><b>raylib_template</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/raylib_template?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/raylib_template?style=flat-square&labelColor=343b41"/></td>
