@@ -109,6 +109,14 @@
     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/raylib_template?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
+  <tr>
+    <td><a href="https://github.com/Obsivium/Word-Fall"><b>Word-Fall</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Obsivium/Word-Fall?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Obsivium/Word-Fall?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Obsivium/Word-Fall?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Obsivium/Word-Fall?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
   </tbody>
 </table>
 
